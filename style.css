@@ -1,0 +1,116 @@
+.text-direct{
+    padding-bottom: 50% !important;
+}
+.text-direct1{
+    padding-top: 45% !important;
+}
+.text-direct2{
+    padding-bottom: 45% !important;
+}
+.text-direct3{
+    padding-bottom: 45% !important;
+}
+.bg-img-01{
+    background-image: url('images/iPhone-15-Ultra-Space-Gray-Black-Background-scaled.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.bg-img-02{
+    background-image: url('images/iphone bgwhite.webp');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+}
+.bg-img-03{
+    background-image: url('images/Apple-Vision-Pro-main-image_screen.webp');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+}
+.bg-img-1{
+    background-image: url('images/watch\ 1.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.bg-img-2{
+    background-image: url('images/macbook1.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.ps-25{
+    padding-left: 100%;
+}
+.pe-25{
+    padding-right: 100%;
+}
+.pb-08{
+    padding-bottom: 10%;
+}
+.pb-10{
+    padding-bottom: 25%;
+}
+.pb-15{
+    padding-bottom: 29%;
+}
+.pb-16{
+    padding-bottom: 30%;
+}
+.ms-5{
+    margin-right: 25%;
+}
+.me-5{
+    margin-left: 25%;
+}
+
+.height{
+    height: 75vh;
+}
+
+.bg-img-3{
+    background-image: url('images/ipad\ pro.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover 100%;
+}
+.bg-img-4{
+    background-image: url('images/AirPods_Pro_2nd-Gen-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.bg-img-5{
+    background-image: url('images/maxresdefault.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.bg-img-6{
+    background-image: url('images/iphone\ clone.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.w-85{
+    width: 98.5%;
+}
+.cat{
+    border: 2px solid black;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+input{
+    width: 92%;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+button{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
